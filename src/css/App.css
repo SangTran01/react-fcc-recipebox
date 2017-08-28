@@ -1,0 +1,16 @@
+.App {
+	padding: 15px;
+	width: 80%;
+	margin: 0 auto;
+	border:1px solid black;
+	border-radius: 10px;
+	box-shadow: 10px 10px 5px #888888;
+}
+
+hr {
+  margin:0px;
+}
+
+.btn {
+  margin:5px;
+}
